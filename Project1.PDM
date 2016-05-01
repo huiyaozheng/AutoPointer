@@ -1,0 +1,180 @@
+[Root]
+Most Recent Package=AutoPointer 1.1
+
+
+[Package|AutoPointer1.0 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=X:\AutoStudio\AutoPointer 1.0\Package
+
+[Package|AutoPointer1.0 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|AutoPointer1.0 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|AutoPointer1.0 1|Files Found]
+
+[Package|AutoPointer1.0 1|Files Released]
+
+[Package|AutoPointer1.0 1|Missing Dependency Information]
+
+[Package|AutoPointer1.0 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\comdlg32.ocx=
+
+[Package|AutoPointer1.0 1|Files Added]
+
+[Package|AutoPointer1.0 1|Files Removed]
+
+[Package|AutoPointer1.0 1|Files In Project]
+X:\AutoStudio\AutoPointer 1.0\AutoPointer 1.0.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|AutoPointer1.0 1|Configure Registry Files]
+Applicable=No
+
+[Package|AutoPointer1.0 1|Configure Remote Servers]
+Applicable=No
+
+[Package|AutoPointer1.0 1|Install Locations]
+X:\AutoStudio\AutoPointer 1.0\AutoPointer 1.0.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|AutoPointer1.0 1|Configure Shared Files]
+Applicable=Yes
+X:\AutoStudio\AutoPointer 1.0\AutoPointer 1.0.exe=No
+
+[Package|AutoPointer1.0 1|Distribution]
+Type=single
+Size=
+Title=AutoPointer
+
+[Package|AutoPointer1.0 1|IconGroups]
+Group0=AutoPointer
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|AutoPointer1.0 1|AutoPointer]
+Icon1="AutoPointer 1.0.exe"
+Title1=AutoPointer
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|AutoPointer1.0 1|Package]
+PackageFolder=X:\AutoStudio\AutoPointer 1.0\Package
+ProjectFolder=X:\AutoStudio\AutoPointer 1.0
+ServerSideCab=
+File1=X:\AutoStudio\AutoPointer 1.0\Package\setup.exe
+File2=X:\AutoStudio\AutoPointer 1.0\Package\Setup.Lst
+File3=X:\AutoStudio\AutoPointer 1.0\Package\AutoPointer 1.0.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|AutoPointer 1.1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=X:\AutoStudio\AutoPointer 1.0\Package (2)
+
+[Package|AutoPointer 1.1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|AutoPointer 1.1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|AutoPointer 1.1|Files Found]
+
+[Package|AutoPointer 1.1|Files Released]
+
+[Package|AutoPointer 1.1|Missing Dependency Information]
+
+[Package|AutoPointer 1.1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\comdlg32.ocx=
+
+[Package|AutoPointer 1.1|Files Added]
+
+[Package|AutoPointer 1.1|Files Removed]
+
+[Package|AutoPointer 1.1|Files In Project]
+X:\AutoStudio\AutoPointer 1.0\AutoPointer 1.1.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|AutoPointer 1.1|Configure Registry Files]
+Applicable=No
+
+[Package|AutoPointer 1.1|Configure Remote Servers]
+Applicable=No
+
+[Package|AutoPointer 1.1|Install Locations]
+X:\AutoStudio\AutoPointer 1.0\AutoPointer 1.1.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+H:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|AutoPointer 1.1|Configure Shared Files]
+Applicable=Yes
+X:\AutoStudio\AutoPointer 1.0\AutoPointer 1.1.exe=No
+
+[Package|AutoPointer 1.1|Distribution]
+Type=single
+Size=
+Title=AutoPointer
+
+[Package|AutoPointer 1.1|IconGroups]
+Group0=AutoPointer
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|AutoPointer 1.1|AutoPointer]
+Icon1="AutoPointer 1.1.exe"
+Title1=AutoPointer
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|AutoPointer 1.1|Package]
+PackageFolder=X:\AutoStudio\AutoPointer 1.0\Package (2)
+ProjectFolder=X:\AutoStudio\AutoPointer 1.0
+ServerSideCab=
+File1=X:\AutoStudio\AutoPointer 1.0\Package (2)\setup.exe
+File2=X:\AutoStudio\AutoPointer 1.0\Package (2)\Setup.Lst
+File3=X:\AutoStudio\AutoPointer 1.0\Package (2)\AutoPointer 1.1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
